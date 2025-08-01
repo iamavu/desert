@@ -1,2 +1,2 @@
 # desert
-Place for unfinished projects
+place for unfinished projects and such
